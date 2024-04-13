@@ -1,8 +1,5 @@
 # Fitness-site
 
-Certainly! Here's an addition you can make to your README file:
-
----
 
 ## Project Overview
 
